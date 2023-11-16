@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\bin\Debug\net7.0\Lesson 6 templates.exe
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\bin\Debug\net7.0\Lesson 6 templates.deps.json
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\bin\Debug\net7.0\Lesson 6 templates.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\bin\Debug\net7.0\Lesson 6 templates.dll
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\bin\Debug\net7.0\Lesson 6 templates.pdb
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\obj\Debug\net7.0\Lesson 6 templates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\obj\Debug\net7.0\Lesson 6 templates.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\obj\Debug\net7.0\Lesson 6 templates.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\obj\Debug\net7.0\Lesson 6 templates.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\obj\Debug\net7.0\Lesson 6 templates.dll
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\obj\Debug\net7.0\refint\Lesson 6 templates.dll
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\obj\Debug\net7.0\Lesson 6 templates.pdb
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\obj\Debug\net7.0\Lesson 6 templates.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\Lesson 6 templates\Lesson 6 templates\obj\Debug\net7.0\ref\Lesson 6 templates.dll
