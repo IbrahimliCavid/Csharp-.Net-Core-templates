@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\bin\Debug\net7.0\lesson 11.1.exe
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\bin\Debug\net7.0\lesson 11.1.deps.json
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\bin\Debug\net7.0\lesson 11.1.runtimeconfig.json
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\bin\Debug\net7.0\lesson 11.1.dll
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\bin\Debug\net7.0\lesson 11.1.pdb
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\obj\Debug\net7.0\lesson 11.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\obj\Debug\net7.0\lesson 11.1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\obj\Debug\net7.0\lesson 11.1.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\obj\Debug\net7.0\lesson 11.1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\obj\Debug\net7.0\lesson 11.1.dll
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\obj\Debug\net7.0\refint\lesson 11.1.dll
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\obj\Debug\net7.0\lesson 11.1.pdb
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\obj\Debug\net7.0\lesson 11.1.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\obj\Debug\net7.0\ref\lesson 11.1.dll
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\obj\Debug\net7.0\lesson 11.1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\lesson11\lesson 11.1\obj\Debug\net7.0\lesson 11.1.csproj.CopyComplete
