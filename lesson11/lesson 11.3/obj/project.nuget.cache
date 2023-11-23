@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/y+P/vEwlPForxE71vaCBMpiArVcn0WXDOzU+j1l2cxxmca3nEIRqFOxZMDeR566f7d5uTGS5P4TMxu4ko1FZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\C#\\lesson11\\lesson 11.3\\lesson 11.3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
