@@ -5,31 +5,56 @@ using System.Net.Http;
 
 namespace Task4
 {
-    internal class Program
+    public class Program
     {
+        const string ApiUrl = "https://dog.ceo/api/breeds/image/random";
+        const string MyDirectory = "C:\\Dog Photos";
+        
         static void Main(string[] args)
         {
-            const string ApiUrl = "https://dog.ceo/api/breeds/image/random";
 
-            string path = @"C:\Users\ilkin\Documents\DogImages";
+            DownloadPhotoToFolder();
+         
+         
 
-            HttpClient httpClient = new HttpClient();
+        }
 
-            var result = httpClient.GetStringAsync(ApiUrl).Result;
+        static string GetPhotoFromUrl()
+        {
+            HttpClient client = new HttpClient();
+             var result = client.GetStringAsync(ApiUrl).Result;
+            Dogs dogs = JsonConvert.DeserializeObject<Dogs>(result);
+         
+            return dogs.Message;
+        }
 
-            var dogs = JsonConvert.DeserializeObject<Dogs>(result);
+           
 
-            WebClient photoClient = new WebClient();
+        static void DownloadPhotoToFolder()
+        {
+            string url = GetPhotoFromUrl();
+            var fileName = url.Split("/");
+            string photoName = fileName[fileName.Length - 1];
 
-            Uri uri = new Uri(dogs.Message);
+           
+            
+           
+            WebClient client = new WebClient();
 
-            photoClient.DownloadFile(uri, path + @"\photo.jpg");
+
+            client.DownloadFile(GetPhotoFromUrl(), MyDirectory + $"\\{photoName}");
+
+            Console.WriteLine($"{photoName} downloading successfuly.");
+
         }
     }
 
     public class Dogs
     {
+
         public string Message { get; set; }
+
+
         public string Status { get; set; }
     }
 }
